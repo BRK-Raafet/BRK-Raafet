@@ -45,13 +45,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=BRK-Raafet&show_icons=true&theme=dark" alt="Github Stats" width="400px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BRK-Raafet&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dark" alt="Gift's language" width="400px" />
 </p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph/?username=BRK-Raafet&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="Activity Graph" height="150px" />
-</p>
+
 
 <!-- Contact -->
 <h2 align="center" style="color: #1F222E;">Contact me</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/raafet-boukessassa/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/BRK-Raafet/" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+
 </p>
