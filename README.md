@@ -6,10 +6,6 @@
   <a href="#">Welcome to my GitHub !</a>
 </h1>
 
-<!-- Realisation de mes projets -->
-
-<h2 align="center" style="color: #1F222E;">Completed projects</h2>
-
 
 <!-- About me -->
 <h2 align="center" style="color: #1F222E;">I'm passionate about</h2>
