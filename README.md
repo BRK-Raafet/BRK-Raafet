@@ -1,55 +1,48 @@
-<!-- Header -->
+<h1 align="center">Bienvenue sur mon GitHub</h1>
 
-
-<!-- Title -->
-<h1 align="center">
-  <a href="#">Welcome to my GitHub !</a>
-</h1>
-
-
-<!-- About me -->
-<h2 align="center" style="color: #1F222E;">I'm passionate about</h2>
-<div style="text-align: center;">
-  <div style="font-size: 18px; line-height: 1.5;">
-    <p>
-        <img src="https://img.shields.io/badge/Réseaux-0078D4?style=for-the-badge&logo=cisco&logoColor=white" alt="Réseaux" />
-        <img src="https://img.shields.io/badge/Systèmes-212121?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Systèmes" />
-        <img src="https://img.shields.io/badge/Sécurité-4B0082?style=for-the-badge&logo=security&logoColor=white" alt="Sécurité" />
-    </p>
-  </div>
-</div>
-
-<!-- Skills -->
-<h2 align="center" style="color: #1F222E;">Skills</h2>
 <p align="center">
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Java-★★★☆☆-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=FFA500&logoWidth=30&logoHeight=30" alt="Java">
-  </a>
-  <a href="https://en.cppreference.com/w/c/language" target="_blank">
-    <img src="https://img.shields.io/badge/C-★★★☆☆-A8B9CC?style=for-the-badge&logo=c&logoColor=white&labelColor=00599C&logoWidth=30&logoHeight=30" alt="C">
-  </a>
-  <a href="https://en.cppreference.com/w/cpp" target="_blank">
-    <img src="https://img.shields.io/badge/C++-★☆☆☆☆-A8B9CC?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=4B0082&logoWidth=30&logoHeight=30" alt="C++">
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://img.shields.io/badge/Shell-★★☆☆☆-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=292D3E&logoWidth=30&logoHeight=30" alt="Shell">
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Python-★★☆☆☆-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=FFD43B&logoWidth=30&logoHeight=30" alt="Python">
-  </a>
+  Élève ingénieur en cybersécurité, en alternance<br>
+  Sécurité défensive · Réseaux · Systèmes · Gouvernance (GRC)
 </p>
 
-<!-- Stats -->
-<h2 align="center" style="color: #1F222E;">Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BRK-Raafet&show_icons=true&theme=dark" alt="Github Stats" width="400px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BRK-Raafet&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dark" alt="Gift's language" width="400px" />
+  <img src="https://img.shields.io/badge/R%C3%A9seaux-0078D4?style=for-the-badge&logo=cisco&logoColor=white" alt="Réseaux">
+  <img src="https://img.shields.io/badge/Syst%C3%A8mes-212121?style=for-the-badge&logo=linux&logoColor=white" alt="Systèmes">
+  <img src="https://img.shields.io/badge/S%C3%A9curit%C3%A9-4B0082?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="Sécurité">
 </p>
 
+## 🎓 Formation
 
-<!-- Contact -->
-<h2 align="center" style="color: #1F222E;">Contact me</h2>
-<p align="center">
-  <a href="https://www.linkedin.com/in/raafet-boukessassa/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+- **Cycle ingénieur à ESIEE Paris**, filière Réseaux et sécurité, en apprentissage.
+- **BUT Informatique** auparavant : développement web et mobile, algorithmique, projets en équipe.
+- Je m'oriente vers la **sécurité défensive** : Blue Team, gouvernance et gestion des risques.
 
+## 🛠️ Projets
+
+Mes dépôts sont privés : je les montre volontiers sur demande.
+
+| Projet | En bref | Outils |
+|---|---|---|
+| **AppMedic** | Application pour signaler les médicaments essentiels en cas de pénurie (projet d'équipe) | Angular, Flask, Go, Docker |
+| **Graphes et Dijkstra** | Quatre représentations de graphes orientés, plus court chemin, et comparaison de leurs performances en temps et en mémoire | Java |
+| **RiseAndShine** | Application mobile de sport et de nutrition (projet d'équipe) | Flutter, Firebase |
+| **Nuit de l'Info 2023 et 2024** | Applications web conçues et livrées en une nuit, en équipe | HTML, CSS, JavaScript |
+
+## 🧰 Langages et outils
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash">
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square" alt="SQL">
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular">
 </p>
